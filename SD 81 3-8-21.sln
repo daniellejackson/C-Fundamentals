@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopExamples", "LoopExample
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorningChallengeConditionsAndLoops", "MorningChallengeConditionsAndLoops\MorningChallengeConditionsAndLoops.csproj", "{B1D5B48A-D995-4E36-889A-C780133EED54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{3070A981-C3A0-4A1E-929B-810E345B912E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceClasses", "InheritanceClasses\InheritanceClasses.csproj", "{2832A9D8-B23F-4D0E-905D-58F9887110E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{B1D5B48A-D995-4E36-889A-C780133EED54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1D5B48A-D995-4E36-889A-C780133EED54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1D5B48A-D995-4E36-889A-C780133EED54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3070A981-C3A0-4A1E-929B-810E345B912E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3070A981-C3A0-4A1E-929B-810E345B912E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3070A981-C3A0-4A1E-929B-810E345B912E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3070A981-C3A0-4A1E-929B-810E345B912E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2832A9D8-B23F-4D0E-905D-58F9887110E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2832A9D8-B23F-4D0E-905D-58F9887110E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2832A9D8-B23F-4D0E-905D-58F9887110E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2832A9D8-B23F-4D0E-905D-58F9887110E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
